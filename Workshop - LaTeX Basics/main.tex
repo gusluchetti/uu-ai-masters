@@ -1,0 +1,47 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=2.54cm, top=4cm, bottom=4cm]{geometry}
+\usepackage{fancyhdr}
+\usepackage{lipsum}
+\usepackage{lmodern}
+\usepackage{xcolor}
+
+\definecolor{dark-blue}{HTML}{00416A}
+\definecolor{indigo}{HTML}{4B0082}
+
+\pagestyle{fancy}
+
+\title{LaTeX Basics}
+\author{Gustavo Luís Luchetti}
+\date{February 8th, 2022}
+% \newpage
+\begin{document}
+
+\maketitle
+\tableofcontents
+\newpage
+
+\section{Introduction}
+This is a brief section that talk about the introduction of this document.
+\section{Text with Symbols}
+When I woke up this morning, the temperature in my room was 13\textdegree C with 75\% humidity. I wrote down this data on my C:\textbackslash\ drive, in a file called temp\_room.txt. That morning the dollar-to-euro exchange rate was \$1.00 is €0.84.
+\section{Rainbow}
+{\huge \textcolor{red}{R}%
+\textcolor{orange}{a}%
+\textcolor{yellow}{i}%
+\textcolor{green}{n}%
+\textcolor{blue}{b}%
+\textcolor{dark-blue}{o}%
+\textcolor{indigo}{w}}
+\section{Quotes}
+I ask ``Where have you been?'' everytime I see him.
+\section{Figures}
+Cute cat:
+\includegraphics[height=2cm]{cute_cat.jpg}
+Source: Pinterest
+\section{Content}
+\lipsum[1-8]
+\section{Conclusion}
+This section, however, focuses entirely on the conclusion of the document.
+
+\end{document}
