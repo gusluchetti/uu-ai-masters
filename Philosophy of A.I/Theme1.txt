@@ -1,6 +1,0 @@
-4 sentence paper on "On our best behaviour"
-
-They say that the Turing Test is not good enough to identify intelligent behaviour in machines, and that we should use different behavioural tests, ones that use questions such as the Winograd Schema question, and that should be able to assess intelligence in a much clearer/fool-proof way when compared to the Turing Test.
-I say I agree with that statement, since I'm a firm believer that no single test, especially the Turing Test, should be used to define a program/machine as intelligent, because in doing so you limit the context of intelligence to specifically what that test was supposed to evaluate, in the case of the Turing Test, the ability to mantain a belieavable conversation through text.
-One might object that in the same way machines are now able to "fake their way" into getting through the Turing Test, they can definitely, in the future, be able to use cheap tricks to get through a Winograd question.
-I reply that that is very much a possibility, and I think that developing future-proof intelligent behaviour is practically impossible, but with each new test and iteration, we might just be able to get closer to that goal.
