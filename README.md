@@ -4,6 +4,7 @@ As per the repo's title, my Masters' in Artificial Intelligence, and I started o
 
 My thesis proposal and writing will take place next year (2023), so I'll update the repo accordingly.
 
+Note: Since some courses had big group projects with multiple contributors, I opted to add them as submodules instead of just adding them into the repository "manually".
 
 ## 2021/2022 Academic Year
 - *3rd Period*
