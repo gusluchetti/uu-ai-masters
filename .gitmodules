@@ -1,0 +1,3 @@
+[submodule "uu-ai-data-mining"]
+	path = uu-ai-data-mining
+	url = git@github.com:gusluchetti/uu-ai-data-mining.git

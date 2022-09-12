@@ -1,0 +1,6 @@
+4 sentence paper on "Different Modelling Purposes"
+
+They say that any model based on complex phenomena, namely, social phenomena, if not built with a specific purpose/role in mind, won't be able to yield any useful results.
+I say that we definitely shouldn't expect models of that type to simply be a one-to-one solution to any social situation we attempt to predict with it, but that doesn't mean we shouldn't attempt to build a model that still functions properly with multiple purposes; this could possibly give way to new developments.
+One might argue that given the difficulty and complexity in actually building viable multi-purpose models, without mentioning all of the information we still don't have with regards to our social responses, resources should not be used on unfruitful and unpredictable attempts.
+I'd reply that these attempts might give us more insights on the missing pieces needed for a better documented and built "framework" for what a social model could be like.

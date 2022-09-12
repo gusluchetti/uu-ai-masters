@@ -1,0 +1,47 @@
+for each chapter:
+- most interesting and/or noteworthy insight
+- what did I learn?
+- what surprised me?
+- what did i manage to takeaway from it?
+750-1250 words
+750-1250 / 6 = ~125-208 words per chapter
+
+
+
+1. History, Motivations and Core Themes
+> Introduction starts off actually proposing that to better understand the history behind AI, we should first look into point of contention, that is, things that are still controversial in the AI community. That includes, but not limited to, smart software vs cognitive modeling, symbolic AI vs neural nets, brain in a vat vs embodied AI, etc.
+Then it goes on to describe a few key moments and names in the history of AI, such as McCulloch and Pits, pioneers of the first neuron model, the birth of AI at the Darkmouth Workshop, mentions Alan Turing as the father of computing and the grandfather of AI, etc. More topics/sections of AI are being explained. It goes on to explain in depth the major areas of AI, like knowledge representation, heuristic search, planning, expert systems, machine vision, machine learning, natural language processing and many others. Also goes in depth about recent trends and directions of AI, like data mining, cognitive computing and science. Finally (I hope), it goes back into those core points of contention, and gives a brief explanation of how they are viewed in todays' lenses.
+
+favorite thing: fact that these discussions are probably not going away?
+
+2. Philosophical Foundations
+> 'Artificial Intelligence was built on concepts and theories developed by philosophers and logicians', says the handbook, so we'll be looking into hard-hitting questions and philosophical stuff in this chapter. Starting of with a very simple one at that, 'What is AI?', holy. In extremely! simple words, a program has AI when it solves a task that would necessitate intelligent behaviour for it to be solved. [then i procrastinated even longer :)))] then the author bashed the turing test for a little while. the text then places the utmost importance of anyone starting out on AI to look into Philosophical AI. [i'll need to reread this tomorrow]. there are a bunch of tough mathematical questions which are, in order, easy, hard and really hard for a normal program to solve. There is a conflict, viewing AI as a science and using AI solely as engineering. more notes about the old dartmouth workshop, and that neither them or turing's paper was able to show REAL strong AI. two important sections/date are mentioned as well, cognitive revolution, which started in the 1950s, and the theory of computability.
+
+then i skipped 6 pages
+
+future of ai, things are difficult to predict, some people said we would too much fast (wrong) other people though the opposite (kinda wrong but mostly right)
+
+favorite thing: comparisons between AI and the human mind, that's fun
+
+3. Philosophical Challenges
+> As the last chapter explored, it seems like philosophers cannot deal with AI at all. some keep pointing out that there need to be a material connection/existencial connection for something to have human reason. some questions are laid out. machines have task intelligence, as they can solve specific tasks, the book mentions a dividing operation. then there's a strange comparison with regular and premium AI, weird. mechanism vs rationality, godelian arguments
+
+4. GOFAI (Good Ol' Fashioned Artificial Intelligence)
+> GOFAI is a label for classical, symbolic AI. Its basic AI programming(?), where symbolic data structures are built and transformed (finding out legal moves given a chess board). some key concepts are heuristic search and planning. given these notions, it can be said that GOFAI usually attempts to simulate high-level human thought. GOFAI evolved into evolutionary programming, that is a program that gets random changes in its own rules, just like cells mutating. then it lists a bunch of "problems" of GOFAI, which other areas of AI solve, so I'm not sure I get the point. GOFAI was called GOFAI because of the belief that it was proof that strong AI wasn't possible, and those who still believed it was were 'old-fashioned'. More discussions over the Chinese Room Argument. Finally, a conclusion pointing out that GOFAI hasn't really failed, it has failed based on hype promises, but it has birthed inumerous useful technical applications. psycologicaly however, it still has a ways to go.
+
+favorite thing: how GOFAI is very accessible but still is able to produce fantastic results for certain tasks.
+
+5. Connectionism and neural networks
+> Connectionist models, models that consist of networks of processing units interconnected through connectivity patterns of various kinds, re-emerged in the 1980s, after dormancy for a few decades. It has now established itself as a mainstay in the AI toolkit, so to speak. They are based on the assumption that cognition comes from the imense interaction of tiny parts (neurons). Some interesting properties of the aforementioned models are: parallelism, adaptivity, graceful degradation, spontaneous generalization, etc. Now for the good stuff: how those models actually learned. There are 3 types of learning highlited on the handbook, supervised, unsupervised, and reinforcement learning. Supervised Learning is used in conjunction with backpropagated algoriths, to 'tell' the activation patterns that a output was desired or not. Unsupervised however, does not have the same error signal, so it is best used to finding the best model to fit the data. Finally, reinforcement learning doesn't get an error signal, but a 'good/bad' performance, if the output desired was close (or not) to its goal, so the desired behaviour can be reinforced through repeated training sessions. Some other points that are interesting for modelling connectionist models are memory, implicit and explicit learning/memory, language and reasoning. Hybrid connectionist models: the synthesis of connection and tradional symbolism. One example of such model is CLARION. It has two level, a symbolic and a connectionist. They work independently but their results are merged. They both observe the current state the agent finds itself in, make their own decisions, and combine their results, an action is then selected, and performed. Given all that, it would seem that these hybrid models are perfect. However, a number of issues arise: not only are these models much more complex, there are a lot of decisions that have to be made as to construct a proper hybrid model fora given task. Therefore, hybrid models have currently only given limited results.
+
+favorite thing: personally i feel like these combinations of connectionist and symbolic "thought" are our best way to replicate how the human mind works, and I find that extremely fascinating
+
+6. Dynamical Systems and embedded cognitions
+> Last but not least, the handbook discusses another type of framework, the SED Framework, that is, an agent that is always aware of where it is Situated, of its (Em)body, and Dynamical brain. All those aspects are extremely important to define the actions of a agent.
+I'm gonna have trouble with this surely, bunch of authors discuss the understandings of what is to be SED, and I'm sad. Very briefly, situation is extremely important as too narrow down the field of actions an agent can execute. It is also proposed that cognition also has a extended mind attribute, in the sense that cognition can be spread throughout different agents and artifacts, as a way to 'offload' the work needed to complete a certain task (using a map to navigate a city, for example). Embodiment on the other hand, has three different advocates: physical, its material properties and capabilities, biological and conceptual, our lived-through experiences and metaphors. Radically, it claims that only actual physical robots put onto real-world environment can actually display intelligent behaviour, given that the environment sways our actions. Dynamics has a few ideas as well, including Dynamical systems theory, dynamical framework and dynamical hypothesis. These are all valid, although, specific claims of how we define what actions we take, but it really shines when all the frameworks are combined 'behavior is a property of the enire coupled brain-body-environment system'. These frameworks are not immune to criticism however, being reactive means it is intrinsicly sensory based, same input resolves in same output. It has been extremely difficult to develop these so called SED systems, given that we lack the tools necessary to analyze our own's body unimmaginaly big net of inputs, environment, body, biological functions, etc. Even so, SED already shows great strides in developing what we know about cognitive science, althought the framework itself has had much less time to develop that other frameworks in AI (like computational and connectionist, for example.)
+
+
+toughest texts are chapter 2 and 3, hooooly hell
+hope to god I can pass jeez
+
+perceive to act, act to perceive (more)

@@ -1,0 +1,9 @@
+4 sentence paper on "The Nature, Importance and Difficulty of Machine Ethics"
+
+They say the field of machine ethics is in constant development, with still many sections of it not being completely understood and/or agreed upon.
+
+I say given that even for us humans, ethics is still a very controversial and divisive topic, especially if we take into consideration different cultures, it is expected that attempting to pass this knowledge onto machines would not be a trivial task.
+
+One might argue that we shouldn't need complete understanding of a certain topic before we attempt to teach it to machines.
+
+I respond that while that isn't necessarily false, given the tasks that involve the need for ethical behaviour usually have severe consequences when ethics are not considered as much as they should, I believe it is advisable to tread very carefully, at least while we are still in the infancy of developing fully ethical agents.

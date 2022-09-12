@@ -1,0 +1,6 @@
+4 sentence paper on "The ethics of algorithms: key problems and solutions"
+
+They say that one of the issues with ethics in algorithms is that using misguided evidence to build algorithms usually leads to unwanted bias, that is, when the data and its sources are not completely understood, our own biases sometimes comes through in the algorithm's decisions.
+I actually find that extremely interesting, because that means we could use these algorithms as a way to self-reflect on our flaws and shortcomings, and maybe get a better grasp of some deep-rooted issues.
+One might respond that having a unfairly biased algorithm doesn't mean necessarily that it comes from a societal problem, and that it could be specific to a single source of biased data. 
+I'd argue that could be true, but even so, since algorithms can't produce bias by themselves, they either diminish or augment our own, it'd still be valuable to analyze cases where there is topical unfair bias; they may not point out a human flaw, but a flaw in the actual process of capturing and developing data for a specific application, which could lead to a better understanding of algorithms as a whole.

@@ -1,0 +1,9 @@
+4 sentence paper on "Understanding from Machine Learning Models"
+
+They say that the nature of 'hiding the process' that deep neural networks (DNN) are known for don't mean that they limit our understanding of a specific model, rather, it is the lack of evidence supporting the model to the target, a lack of a link, that diminishes understanding.
+
+I completely agree with that, but I still think it is undeniable that making a part of a model completely 'black-boxed', makes it a lot harder to understand, given that the detailing of the process to which something is acquired/made is usually the most important part of the model-target experiment (think of a recipe, for example), and is the thing that commonly gives us the most insight; it's the most tangible thing to understand, the actual steps to how X came to be Y.
+
+A counter for that is that we shouldn't always attempt to apply "human logic" to every 'computational' issue. That is, why focus so much on the process, and not just be satisfied with understanding the inputs and outputs completely? For most cases, that should be enought to grasp a general idea, and maybe that could lead to an eventual simplification of the model itself (if necessary).
+
+I understand that counter, but at the end the day, the ones utilizing and improving the models are humans, so I don't think a model should be viewed as useless and/or inneficient if it is worse, but it's much more modular, manageable and transparent for the actual users and analysts of a model.
