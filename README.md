@@ -11,7 +11,7 @@ Note: Since some courses had big group projects with multiple contributors, I op
 
     **Philosophy of A.I.**: Mandatory course with seminars every weeks where we discussed different fields of A.I. with a more phylosophical approach (who would've thunk?). My group's presentation was about Ethics in A.I., especifically about the use of autonomous weapons systems (heavily referencing Robert Sparrow's work).
     
-    **Multi Agent Systems**: An elective where the goal was to produce a 
+    **Multi Agent Systems**: An elective where the goal was to produce a negotiation agent using the modular system of the [Genius API](http://ii.tudelft.nl/genius/).
 - *4th Period*
 
     **Multi Agent Learning**: I unfortunately didn't finish this elective, took too long to catch up with the syllabus and couldn't study properly for the midterm, opting instead on focusing on Pattern Set Mining. 
