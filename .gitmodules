@@ -1,9 +1,9 @@
-[submodule "uu-ai-data-mining"]
-	path = uu-ai-data-mining
-	url = git@github.com:gusluchetti/uu-ai-data-mining.git
 [submodule "uu-mas-agent"]
 	path = uu-mas-agent
 	url = git@github.com:gusluchetti/uu-mas-agent.git
 [submodule "uu-methods-ai-research"]
 	path = uu-methods-ai-research
 	url = git@github.com:gusluchetti/uu-methods-ai-research.git
+[submodule "uu-mas-agent"]
+	path = uu-data-mining
+	url = git@github.com:gusluchetti/uu-data-mining.git
